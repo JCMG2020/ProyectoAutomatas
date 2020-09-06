@@ -12,6 +12,17 @@
         <div>
             <asp:TextBox ID="TxtCadena" runat="server"></asp:TextBox>
             <asp:Button ID="BtnEvaluaCadena" Text="Evaluar Cadena" OnClick="BtnEvaluaCadena_Click" runat="server" />
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <asp:TextBox runat="server" ID="TxtResultado" TextMode="MultiLine" Rows="10" />
+             <br />
+             <asp:TextBox runat="server" ID="TxtCadenas" TextMode="MultiLine" Rows="10" />
+
         </div>
     </form>
 </body>
