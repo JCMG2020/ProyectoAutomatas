@@ -17,13 +17,25 @@ namespace ProyectoAutomatas
         protected void BtnEvaluaCadena_Click(object sender, EventArgs e)
         {
             String Cadena = "";
-            Cadena = TxtCadena.Text;
+            Int64 largo = 0;
+            String[] estados;
+            Cadena = TxtCadena.Text.Trim();
+            largo = Cadena.Length;
+
+            for (int i = 0; i<= largo; i++) { 
+                    
+            }
+
+
+
        
             char[] charArr = Cadena.ToCharArray();
             foreach (char ch in charArr)
             {
                 Console.WriteLine(ch);
             }
+
+            for 
 
 
         }
