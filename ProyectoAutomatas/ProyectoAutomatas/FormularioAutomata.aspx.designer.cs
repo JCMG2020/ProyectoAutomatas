@@ -42,22 +42,49 @@ namespace ProyectoAutomatas
         protected global::System.Web.UI.WebControls.Button BtnEvaluaCadena;
 
         /// <summary>
-        /// Control TxtResultado.
+        /// Control BtnBorrarRegistro.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtResultado;
+        protected global::System.Web.UI.WebControls.Button BtnBorrarRegistro;
 
         /// <summary>
-        /// Control TxtCadenas.
+        /// Control TxtTabla.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtCadenas;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl TxtTabla;
+
+        /// <summary>
+        /// Control TxtEstados.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl TxtEstados;
+
+        /// <summary>
+        /// Control myDiagramDiv.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl myDiagramDiv;
+
+        /// <summary>
+        /// Control BtnGrafico.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlButton BtnGrafico;
 
         /// <summary>
         /// Control mySavedModel.

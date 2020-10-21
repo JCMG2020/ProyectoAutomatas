@@ -297,6 +297,7 @@
     <Content Include="assets\images\site6.png" />
     <Content Include="assets\images\site7.png" />
     <Content Include="assets\images\site8.png" />
+    <Content Include="assets\images\umg.png" />
     <Content Include="assets\images\vue-icon.svg" />
     <Content Include="assets\js\api.js" />
     <Content Include="assets\js\bootstrap.min.js" />
