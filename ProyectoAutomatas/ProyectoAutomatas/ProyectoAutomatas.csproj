@@ -330,6 +330,7 @@
     <None Include="packages.config" />
     <Content Include="release\go-debug.mjs" />
     <Content Include="release\go.mjs" />
+    <None Include="Properties\PublishProfiles\Default Settings.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
